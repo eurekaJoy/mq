@@ -1,0 +1,4 @@
+# Project exclude paths
+/rabbitmq/target/
+/springboot-rabbitmq-consumer/target/
+/springboot-rabbitmq-producer/target/
